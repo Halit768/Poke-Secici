@@ -13,4 +13,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir Pokémon ara
 - **HTML:** Sayfa yapısının oluşturulması.
 - **CSS:** Sayfa düzeni ve stilinin belirlenmesi.
 - **JavaScript:** Dinamik içerik ve kullanıcı etkileşimlerinin sağlanması.
-# Poke-Secici
+
+
+## Ekran Görüntüsü
+
+![](Pokemon.gif)
